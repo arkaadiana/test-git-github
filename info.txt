@@ -6,3 +6,4 @@ Class: UG224
 Course: Back-end Web Development
 Campus: ITB Stikom Bali
 Semester: IV
+Hobby: Editing
